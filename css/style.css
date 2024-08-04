@@ -185,6 +185,7 @@ a:hover {
 }
 
 .box-shadow-full {
+  border-radius: 10px;
   padding: 3rem 1.25rem;
   position: relative;
   background-color: #fff;
@@ -775,6 +776,9 @@ a:hover {
 }
 
 .work-img {
+  display: flex !important;
+  justify-content: center;
+  height: 300px;
   display: block;
   overflow: hidden;
 }
