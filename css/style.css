@@ -112,6 +112,11 @@ a:hover {
   vertical-align: middle;
 }
 
+.custom-desc-txt {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
 /*--/ Sections /--*/
 
 .sect-4 {
